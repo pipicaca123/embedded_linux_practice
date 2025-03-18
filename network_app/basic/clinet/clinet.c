@@ -1,5 +1,6 @@
 /**
  * design for test
+ * build as gcc -o client ./client.c
  */
 #include <stdio.h>
 #include <unistd.h>
