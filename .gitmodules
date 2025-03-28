@@ -1,0 +1,9 @@
+[submodule "third_party/smolrtsp"]
+	path = third_party/smolrtsp
+	url = git@github.com:OpenIPC/smolrtsp.git
+[submodule "third_party/ffmpeg"]
+	path = third_party/ffmpeg
+	url = git@github.com:FFmpeg/FFmpeg.git
+[submodule "third_party/simple_rtsp_server"]
+	path = third_party/simple_rtsp_server
+	url = git@github.com:BreakingY/simple-rtsp-server.git
