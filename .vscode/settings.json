@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "smolrtsp.h": "c",
+        "typeinfo": "c"
+    }
+}
